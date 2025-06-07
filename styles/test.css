@@ -1,0 +1,18 @@
+h1 {
+  color: burlywood;
+  background-color: black;
+}
+p {
+  color: aquamarine;
+}
+ul {
+  color: blueviolet;
+  background-color: cadetblue;
+}
+ol {
+  color: brown;
+  background-color: blueviolet;
+}
+q {
+  color: palevioletred;
+}
